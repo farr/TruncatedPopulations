@@ -1,0 +1,26 @@
+name = "TruncatedPopulations"
+uuid = "ba18170f-5d79-44bb-9a0a-7c6a5887f942"
+version = "0.1.0"
+authors = ["Will M. Farr <will.farr@ligo.org>"]
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+Mooncake = "da2b9cff-9c12-43a0-ae48-6db2b0edb7d6"
+PairPlots = "43a3c2be-4208-490b-832a-a21dcd55d7da"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
+
+[compat]
+CairoMakie = "0.15.9"
+Distributions = "0.25.123"
+Enzyme = "0.13.129"
+LaTeXStrings = "1.4.0"
+Mooncake = "0.5.15"
+PairPlots = "3.0.3"
+Statistics = "1.11.1"
+StatsFuns = "1.5.2"
+Turing = "0.43.0"
